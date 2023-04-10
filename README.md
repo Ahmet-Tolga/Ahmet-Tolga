@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there I'm Ahmet Tolgahan Senli , a computer Engineering Student👋
 
 
 **Ahmet-Tolga/Ahmet-Tolga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
