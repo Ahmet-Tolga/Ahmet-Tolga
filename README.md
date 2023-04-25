@@ -2,6 +2,10 @@
 
 
 **Ahmet-Tolga/Ahmet-Tolga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/103315343/234244774-43a630d3-f848-4158-84d2-2d561a1e7847.gif" width="498" height="270" />
+    </br>
+</div>
 
 Here are some ideas to get you started:
 
