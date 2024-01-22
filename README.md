@@ -36,6 +36,18 @@ Here are some ideas to get you started:
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
       <br>JavaScript
     </td>
+      <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
+      <br>Nodejs
+    </td>
+      <td align="center" width="96">
+      <img src="https://ih1.redbubble.net/image.438908244.6144/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.u2.jpg" width="48" height="48" alt="Nodejs" />
+      <br>Expressjs
+    </td>
+      <td align="center" width="96">
+      <img src="https://avatars.mds.yandex.net/i?id=8b4c7dd91a7cc8f9b78069e47441620a4d39de32-4277590-images-thumbs&n=13" width="48" height="48" alt="Nodejs" />
+      <br>Expressjs
+    </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
       <br>CSS
@@ -57,10 +69,6 @@ Here are some ideas to get you started:
     <td align="center" width="96">
       <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" width="48" height="48" alt="Postman" />
       <br>Postman
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
-      <br>Nodejs
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
