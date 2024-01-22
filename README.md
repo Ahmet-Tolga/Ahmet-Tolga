@@ -30,10 +30,66 @@ Here are some ideas to get you started:
 
 ## Techs
 
-<hr>
-<div align="center" ><img src="https://d3mxt5v3yxgcsr.cloudfront.net/courses/10756/course_10756_image.png" width="90" heigth="90">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://avatars.mds.yandex.net/i?id=fca1e6086231eb9e54b4e0162622b9387225330d-8185493-images-thumbs&n=13" width="40" heigth="40">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://1.bp.blogspot.com/-9F9bIYdVMeA/WuHWRc2dkKI/AAAAAAAAAWA/Wx9aHNxG2jktPCbx6dmtAeM0RqyMWrLDQCEwYBhgL/s320/nodejs-logo.png" width="50" heigth="50">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://bs-uploads.toptal.io/blackfish-uploads/components/skill_page/content/logo_file/logo/195562/express_js-161052138fa79136c0474521906b55e2.png" width="70" heigth="40">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://avatars.mds.yandex.net/i?id=91464e90dae9b45698deca03ce332da4935995be-10906504-images-thumbs&n=13" width="70" heigth="45">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" width="40" heigth="40">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/103315343/230853697-97420ad5-d785-4a87-a0a1-73dcd95df02d.png" width="40" heigth="40">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/103315343/230855039-63939e16-2145-46aa-9cfc-013c2aa1035f.png" width="40" heigth="40">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/217d5ea0-623d-40b1-9b31-027b904a5f15/dccudp7-3a29ffd5-4e85-4123-88cc-4e948bedd7c1.png/v1/fill/w_512,h_512,strp/honeycomb_icon_pycharm_by_mauriliosm_dccudp7-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTEyIiwicGF0aCI6IlwvZlwvMjE3ZDVlYTAtNjIzZC00MGIxLTliMzEtMDI3YjkwNGE1ZjE1XC9kY2N1ZHA3LTNhMjlmZmQ1LTRlODUtNDEyMy04OGNjLTRlOTQ4YmVkZDdjMS5wbmciLCJ3aWR0aCI6Ijw9NTEyIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.8m13Ix9vFqKMv4e8HDJ8t4aVjP1dgqSSw9Uh4pIiBdE" width="40" heigth="40"></div>
-<hr>
-<div>
+<table>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+      <br>CSS
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery" />
+      <br>jQuery
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+      <br>TypeScript
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" width="48" height="48" alt="Postman" />
+      <br>Postman
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
+      <br>Nodejs
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="96"> 
+      <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+      <br>Github
+    </td>
+  </tr>
+ <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
+      <br>AWS
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
+      <br>VsCode
+    </td>
+ </tr>
+</table>
 <div>
 <h1>To My Website</h1>
 <img src="https://user-images.githubusercontent.com/103315343/233432848-d2013d7a-40a5-47aa-a6b4-339a897a31fd.png" width="150" heigth="150"/></div>
