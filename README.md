@@ -1,4 +1,4 @@
-# Hi there I'm Ahmet Tolgahan Senli ,ı am a Backend Devoloper👋
+# Hi there I'm Ahmet Tolgahan Senli ,I am a Backend Developer👋
 
 
 **Ahmet-Tolga/Ahmet-Tolga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -9,7 +9,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Backend development
+- 🔭 I’m currently working on Backend development,can make restAPI,backend servers and more...
 - 🌱 I’m currently learning Django, Nodejs,Expressjs and Nestjs
 - 👯 I’m looking to collaborate on  Meta, Google,IBM
 - 🤔 I’m looking for help with everything
