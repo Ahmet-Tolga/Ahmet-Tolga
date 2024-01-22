@@ -19,8 +19,9 @@ Here are some ideas to get you started:
     <a href="https://github.com/Ahmet-Tolga/Ahmet-Tolga/" target="_blank">
         <img src="https://user-images.githubusercontent.com/103315343/230851341-79ebfed0-055e-4cef-a7e7-e428442d24e7.png" alt="Deneme" width="40" height="40">
     </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/ahmet-tolgahan-%C5%9Fenli-764113278/" target="_blank">
-        <img src="https://logodix.com/logo/692113.jpg" alt="Deneme" width="60" height="60">
+        <img src="https://logodix.com/logo/692113.jpg" alt="Deneme" width="50" height="50">
     </a>
 </div>
 
