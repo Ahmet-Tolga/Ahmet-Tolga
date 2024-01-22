@@ -28,10 +28,14 @@ Here are some ideas to get you started:
 
 ## ⚡ Fun fact: I can survive in Turkey
 
-## Techs
+## Techs I use
 
 <table>
   <tr>
+      <td align="center" width="96">
+        <img src="https://avatars.mds.yandex.net/i?id=60e15b3c66776ca7aef8e10d24973df94e848905-12146892-images-thumbs&n=13" alt="icon" width="65" height="65" />
+      <br>Python
+    </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
       <br>JavaScript
