@@ -40,6 +40,10 @@ Here are some ideas to get you started:
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
       <br>JavaScript
     </td>
+       <td align="center" width="96">
+        <img src="https://avatars.mds.yandex.net/i?id=92e1ef219fc2b426a2e1fe67554c635c06810111-5259114-images-thumbs&n=13" alt="icon" width="65" height="65" />
+      <br>C
+    </td>
       <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
       <br>Nodejs
