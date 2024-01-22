@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with everything
 - 💬 Ask me about Web development, Computer Science and everything about Backend
 ## 📫 How to reach me: ..
-<a href="https://github.com/Ahmet-Tolga/Ahmet-Tolga/" align="end" target="_blank"><hr><img src="https://user-images.githubusercontent.com/103315343/230851341-79ebfed0-055e-4cef-a7e7-e428442d24e7.png" alt="Deneme" width="40" heigth="40"><hr></a>
-<a href="https://www.linkedin.com/in/ahmet-tolgahan-%C5%9Fenli-764113278/" align="end" target="_blank"><hr><img src="https://logodix.com/logo/692113.jpg" alt="Deneme" width="40" heigth="40"><hr></a>
+<a href="https://github.com/Ahmet-Tolga/Ahmet-Tolga/" align="end" target="_blank"><hr><img src="https://user-images.githubusercontent.com/103315343/230851341-79ebfed0-055e-4cef-a7e7-e428442d24e7.png" alt="Deneme" width="40" heigth="40"><a href="https://www.linkedin.com/in/ahmet-tolgahan-%C5%9Fenli-764113278/" align="end" target="_blank"><hr><img src="https://logodix.com/logo/692113.jpg" alt="Deneme" width="60" heigth="60"><hr></a></a>
 ## ⚡ Fun fact: I can survive in Turkey
 
 ## Techs
