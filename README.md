@@ -21,7 +21,7 @@ Here are some ideas to get you started:
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/ahmet-tolgahan-%C5%9Fenli-764113278/" target="_blank">
-        <img src="https://logodix.com/logo/692113.jpg" alt="Deneme" width="50" height="50">
+        <img src="https://avatars.mds.yandex.net/i?id=9337f1322be182bf4dca70af7b421f536be9b9f3-8497423-images-thumbs&n=13g" alt="Deneme" width="50" height="50">
     </a>
 </div>
 
