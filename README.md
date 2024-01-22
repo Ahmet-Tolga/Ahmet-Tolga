@@ -46,7 +46,7 @@ Here are some ideas to get you started:
     </td>
       <td align="center" width="96">
       <img src="https://avatars.mds.yandex.net/i?id=8b4c7dd91a7cc8f9b78069e47441620a4d39de32-4277590-images-thumbs&n=13" width="48" height="48" alt="Nodejs" />
-      <br>Expressjs
+      <br>Nestjs
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
@@ -55,10 +55,6 @@ Here are some ideas to get you started:
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
       <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery" />
-      <br>jQuery
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
@@ -77,6 +73,10 @@ Here are some ideas to get you started:
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
       <br>MongoDB
+    </td>
+      <td align="center" width="96">
+      <img src="https://avatars.mds.yandex.net/i?id=6881431ac11fe90135e58fc873fd055b34606a36-5667442-images-thumbs&n=13" width="48" height="48" alt="MongoDB" />
+      <br>Postgresql
     </td>
     <td align="center" width="96"> 
       <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
