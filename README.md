@@ -114,5 +114,13 @@ Here are some ideas to get you started:
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmet-tolga)](https://github.com/ahmet-tolga/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmet-tolga)](https://github.com/ahmet-tolga/github-readme-stats)
+<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmet-tolga)](https://github.com/ahmet-tolga/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmet-tolga)](https://github.com/ahmet-tolga/github-readme-stats)-->
+
+## ⚡ Status
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahmet-tolga5&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahmet-tolga&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmet-tolga&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahmet-tolga&theme=algolia&utcOffset=8)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmet-tolga&theme=algolia&utcOffset=8)]
